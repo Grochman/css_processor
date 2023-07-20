@@ -16,6 +16,7 @@ The CSS Processor is a C++ program that processes CSS code and executes specific
 
 The CSS Processor takes these commands as input and provides corresponding output values for each command. 
 ## Example:
+<pre>
 #breadcrumb  
 {  
 	width: 80%;  
@@ -51,6 +52,7 @@ h1,E,color
 h1, h2, h3, h4, h5, h6 {color: #0066FF;}  
 ????  
 ?  
+</pre>
 ## Result:
 ? == 3  
 1,S,? == 1  
