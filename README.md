@@ -1,6 +1,6 @@
 # CSS procesor
 The CSS Processor is a C++ program that processes CSS code and executes specific commands to retrieve information about the CSS blocks, selectors, and attributes.  
-Additionally in this project I used a custom wersion of String built from the ground up to improve my C++ skills.
+Additionally in this project I used a custom version of String built from the ground up to improve my C++ skills.
 ## Available commands: 
 - `????`: start command section
 - `****`: end command section
